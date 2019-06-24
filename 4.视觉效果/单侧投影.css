@@ -1,0 +1,13 @@
+.div1{
+    width: 1.6in;
+    height: 1in;
+    background: #fb3;
+    box-shadow: 0 5px 4px -4px black;
+}
+/*box-shadow:
+第1个长度参数：x 偏移量
+第2个长度参数：y 偏移量
+第3个长度参数：模糊半径
+第4个长度参数：扩大或缩小投影的尺寸。
+第5个参数： 投影颜色
+*/
